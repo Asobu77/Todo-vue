@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"eslint.autoFixOnSave": true,
+		"files.associations": {
+			"*.vue": "vue"
+	},
+	"eslint.validate": [
+		"javascript",
+		"javascriptreact",
+		{
+		"language": "vue",
+		"autoFix": true
+		}
+	],
+	}
+}
